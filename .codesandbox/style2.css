@@ -1,0 +1,50 @@
+/* 問題1: 基本的なCSSルールの並べ替え */
+p {
+  color: red;
+}
+
+/* 問題2: フォントサイズの穴埋め */
+h1 {
+  font-size: 24px;
+}
+
+/* 問題3: 背景色の並べ替え */
+body {
+  background-color: moccasin;
+}
+
+/* 問題4: marginの穴埋め */
+p {
+  margin: 20px;
+}
+
+/* 問題5: classセレクタの並べ替え */
+.important {
+  color: green;
+}
+
+/* 問題6: paddingの穴埋め */
+div {
+  padding: 10px;
+}
+
+/* 問題7: border-radiusの並べ替え */
+div {
+  border-radius: 10px;
+}
+
+/* 問題8: text-alignの穴埋め */
+h1 {
+  text-align: center;
+}
+
+/* 問題9: box-shadowの並べ替え */
+div {
+  box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+}
+
+/* 問題10: 複数プロパティの穴埋め */
+p {
+  color: blue;
+  background-color: yellow;
+}

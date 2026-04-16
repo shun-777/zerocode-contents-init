@@ -1,0 +1,30 @@
+/* ページ全体の設定 */
+body {
+  background-color: #f0f4f8;
+  color: #333333;
+  font-size: 16px;
+  line-height: 1.8;
+  margin: 0;
+  padding: 20px;
+}
+
+/* 大見出しのスタイル */
+h1 {
+  color: #7DD1FD;
+  font-size: 32px;
+  font-weight: bold;
+  margin-bottom: 16px;
+}
+
+/* 中見出しのスタイル */
+h2 {
+  color: #0281CA;
+  font-size: 24px;
+  margin-top: 24px;
+  margin-bottom: 12px;
+}
+
+/* 段落のスタイル */
+p {
+  margin-bottom: 16px;
+}
