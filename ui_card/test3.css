@@ -1,0 +1,49 @@
+/* 問題1: Flexboxの基本設定の並べ替え */
+div { display: flex; }
+
+/* 問題2: justify-contentの穴埋め */
+.container {
+  display: flex;
+  justify-content: center;
+}
+
+/* 問題3: align-itemsの並べ替え */
+.container {
+  display: flex;
+  align-items: center;
+}
+
+/* 問題4: gapの穴埋め */
+.container {
+  display: flex;
+  gap: 20px;
+}
+
+/* 問題5: flex-directionの並べ替え */
+.container {
+  display: flex;
+  flex-direction: column;
+}
+
+/* 問題6: カードの背景色の穴埋め */
+.card {
+  background-color: white;
+}
+
+/* 問題7: カードの影の並べ替え */
+.card {
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+/* 問題8: カードの角丸の穴埋め */
+.card {
+  border-radius: 24px;
+}
+
+/* 問題9: ホバー時の影の並べ替え */
+.card:hover { box-shadow: 0 8px 16px rgba(0,0,0,0.2); }
+
+/* 問題10: transitionの穴埋め */
+.card {
+  transition: 0.3s;
+}
